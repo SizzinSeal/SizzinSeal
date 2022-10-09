@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SizzinSeal
+- 👀 I’m interested in competitive robotics, 3D printing, low-level programming and motion control
+- 🌱 I’m currently learning kinematics
+- 📫 You can reach me through email: liamteale6@gmail.com
