@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SizzinSeal
-- 👀 I’m interested in competitive robotics, 3D printing, low-level programming and motion control
-- 🌱 I’m currently learning kinematics
+- :sparkles: I am the founder of the [LemLib](https://github.com/LemLib) organization
+- 👀 I’m interested in control theory and 3D printing
+- 🌱 I’m currently learning about motion profiling
 - 📫 You can reach me through email: liamteale6@gmail.com
