@@ -4,3 +4,5 @@
 - 👀 I’m interested in robot controls and low-level programming
 - 🌱 I’m currently learning about 3D printing
 - 📫 You can reach me through email: `liamteale6@gmail.com`, or my discord: `sizzlinseal`
+
+[![SizzinSeal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SizzinSeal)](https://github.com/anuraghazra/github-readme-stats)
